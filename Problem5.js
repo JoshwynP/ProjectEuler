@@ -1,3 +1,9 @@
+/** 
+*    Euler Project - Problem 5   
+*    Smallest Multiple
+*    @author Joshwyn Parekh
+*/
+
 var num = 1;
 var final = 0;
 
